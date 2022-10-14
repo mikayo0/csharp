@@ -9,6 +9,8 @@ namespace csharp {
         static void Main(string[] args) {
             Console.WriteLine("SECSOS");
             Console.WriteLine("VAPO");
+            Console.WriteLine("AGORA VAI");
+            Console.WriteLine("Puta que pariu");
         }
     }
 }
